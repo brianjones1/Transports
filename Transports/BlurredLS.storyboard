@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10116" systemVersion="15D21" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" initialViewController="01J-lp-oVM">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Llm-lL-Icb"/>
+                        <viewControllerLayoutGuide type="bottom" id="xb3-aO-Qok"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Flag" translatesAutoresizingMaskIntoConstraints="NO" id="xxS-3h-ayf">
+                                <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                            </imageView>
+                            <visualEffectView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Z7x-rq-5Uh">
+                                <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                                <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="QhI-QM-6T9">
+                                    <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                    <subviews>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Angers Transports" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Q3P-jU-Tfi">
+                                            <rect key="frame" x="183" y="64" width="234" height="49"/>
+                                            <constraints>
+                                                <constraint firstAttribute="height" constant="49" id="Mqq-Io-c06"/>
+                                                <constraint firstAttribute="width" constant="234" id="he6-wJ-03o"/>
+                                            </constraints>
+                                            <fontDescription key="fontDescription" type="system" weight="light" pointSize="29"/>
+                                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="© 2016 Romain Rabouan" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LcL-Lx-5Cd">
+                                            <rect key="frame" x="200" y="560" width="200" height="21"/>
+                                            <constraints>
+                                                <constraint firstAttribute="width" constant="200" id="DsQ-rB-k1J"/>
+                                                <constraint firstAttribute="height" constant="21" id="kzL-7y-cIf"/>
+                                            </constraints>
+                                            <fontDescription key="fontDescription" type="system" weight="light" pointSize="12"/>
+                                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                        <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Alstom_Citadis_302_n°1001_IRIGO_-_Pont_Confluences" translatesAutoresizingMaskIntoConstraints="NO" id="fku-ex-Y3U">
+                                            <rect key="frame" x="190" y="179" width="220" height="147"/>
+                                            <constraints>
+                                                <constraint firstAttribute="width" constant="220" id="bLg-1i-m6J"/>
+                                                <constraint firstAttribute="height" constant="147" id="kds-5E-yQ1"/>
+                                            </constraints>
+                                        </imageView>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Version bêta (ß). Des bugs peuvent apparaître." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fxB-gO-fB9">
+                                            <rect key="frame" x="8" y="445" width="584" height="55"/>
+                                            <constraints>
+                                                <constraint firstAttribute="height" constant="55" id="zY3-W0-L20"/>
+                                            </constraints>
+                                            <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                    </subviews>
+                                    <constraints>
+                                        <constraint firstItem="fku-ex-Y3U" firstAttribute="centerX" secondItem="Q3P-jU-Tfi" secondAttribute="centerX" id="1CA-qL-Rno"/>
+                                        <constraint firstItem="Q3P-jU-Tfi" firstAttribute="top" secondItem="QhI-QM-6T9" secondAttribute="top" constant="64" id="OUp-E8-Jwg"/>
+                                        <constraint firstItem="fxB-gO-fB9" firstAttribute="centerX" secondItem="LcL-Lx-5Cd" secondAttribute="centerX" id="Sof-cP-eNn"/>
+                                        <constraint firstItem="Q3P-jU-Tfi" firstAttribute="centerX" secondItem="QhI-QM-6T9" secondAttribute="centerX" id="d4a-J5-yz0"/>
+                                        <constraint firstItem="LcL-Lx-5Cd" firstAttribute="top" secondItem="fxB-gO-fB9" secondAttribute="bottom" constant="60" id="jrJ-P9-3lO"/>
+                                        <constraint firstItem="fxB-gO-fB9" firstAttribute="leading" secondItem="QhI-QM-6T9" secondAttribute="leadingMargin" id="lka-NA-FNn"/>
+                                        <constraint firstItem="fxB-gO-fB9" firstAttribute="centerX" secondItem="fku-ex-Y3U" secondAttribute="centerX" id="ni9-X4-4w5"/>
+                                        <constraint firstAttribute="bottom" secondItem="LcL-Lx-5Cd" secondAttribute="bottom" constant="19" id="nrp-x7-Sra"/>
+                                        <constraint firstItem="fku-ex-Y3U" firstAttribute="top" secondItem="Q3P-jU-Tfi" secondAttribute="bottom" constant="66" id="wQ2-4L-Pd6"/>
+                                    </constraints>
+                                </view>
+                                <blurEffect style="extraLight"/>
+                            </visualEffectView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="Z7x-rq-5Uh" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="4MS-4J-ZCw"/>
+                            <constraint firstItem="Z7x-rq-5Uh" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="8v9-NC-mY7"/>
+                            <constraint firstItem="xxS-3h-ayf" firstAttribute="bottom" secondItem="xb3-aO-Qok" secondAttribute="top" id="96B-ak-nv4"/>
+                            <constraint firstItem="Z7x-rq-5Uh" firstAttribute="top" secondItem="xxS-3h-ayf" secondAttribute="top" id="H78-kh-jon"/>
+                            <constraint firstItem="Z7x-rq-5Uh" firstAttribute="bottom" secondItem="xb3-aO-Qok" secondAttribute="top" id="JW3-d6-qvF"/>
+                            <constraint firstItem="xxS-3h-ayf" firstAttribute="trailing" secondItem="Z7x-rq-5Uh" secondAttribute="trailing" id="TC2-9s-Ejx"/>
+                            <constraint firstItem="Z7x-rq-5Uh" firstAttribute="leading" secondItem="xxS-3h-ayf" secondAttribute="leading" id="VFb-e8-Yr2"/>
+                            <constraint firstAttribute="trailing" secondItem="Z7x-rq-5Uh" secondAttribute="trailing" id="kUu-og-xFh"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="53" y="375"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Alstom_Citadis_302_n°1001_IRIGO_-_Pont_Confluences" width="4480" height="2984"/>
+        <image name="Flag" width="1000" height="618"/>
+    </resources>
+</document>

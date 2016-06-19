@@ -1,0 +1,63 @@
+
+/* Class = "UIBarButtonItem"; title = "Sélectionner les lignes"; ObjectID = "7fc-u8-Ieg"; */
+"7fc-u8-Ieg.title" = "Sélectionner les lignes";
+
+/* Class = "UILabel"; text = "Note"; ObjectID = "81s-ig-4vV"; */
+"81s-ig-4vV.text" = "Note";
+
+/* Class = "UIBarButtonItem"; title = "Être alerté"; ObjectID = "9tD-zF-VYh"; */
+"9tD-zF-VYh.title" = "Être alerté";
+
+/* Class = "UINavigationItem"; title = "Arrêts favoris"; ObjectID = "DzU-x4-iAB"; */
+"DzU-x4-iAB.title" = "Arrêts favoris";
+
+/* Class = "UITextField"; placeholder = "Radius in meters"; ObjectID = "JCu-BO-y8b"; */
+"JCu-BO-y8b.placeholder" = "Radius in meters";
+
+/* Class = "UITextField"; text = "100"; ObjectID = "JCu-BO-y8b"; */
+"JCu-BO-y8b.text" = "100";
+
+/* Class = "UITextField"; placeholder = "Rappel à afficher"; ObjectID = "USr-pF-VnD"; */
+"USr-pF-VnD.placeholder" = "Rappel à afficher";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "WdU-AF-g6b"; */
+"WdU-AF-g6b.text" = "Title";
+
+/* Class = "UIBarButtonItem"; title = "Add"; ObjectID = "Zqz-jV-nhQ"; */
+"Zqz-jV-nhQ.title" = "Add";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "a4g-CV-cKq"; */
+"a4g-CV-cKq.title" = "Item";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "cTx-Hb-eHe"; */
+"cTx-Hb-eHe.text" = "Subtitle";
+
+/* Class = "UINavigationItem"; title = "Ajouter une alerte de lieu"; ObjectID = "cjD-eh-hQf"; */
+"cjD-eh-hQf.title" = "Ajouter une alerte de lieu";
+
+/* Class = "UINavigationItem"; title = "Endroits (0)"; ObjectID = "dS8-nZ-3oV"; */
+"dS8-nZ-3oV.title" = "Endroits (0)";
+
+/* Class = "UINavigationItem"; title = "Chercher un arrêt"; ObjectID = "geP-yM-WZF"; */
+"geP-yM-WZF.title" = "Chercher un arrêt";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "im2-4H-R3h"; */
+"im2-4H-R3h.text" = "Subtitle";
+
+/* Class = "UISegmentedControl"; qO7-cw-PJc.segmentTitles[0] = "En Entrant"; ObjectID = "qO7-cw-PJc"; */
+"qO7-cw-PJc.segmentTitles[0]" = "En Entrant";
+
+/* Class = "UISegmentedControl"; qO7-cw-PJc.segmentTitles[1] = "En Sortant"; ObjectID = "qO7-cw-PJc"; */
+"qO7-cw-PJc.segmentTitles[1]" = "En Sortant";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "qXL-jP-tGt"; */
+"qXL-jP-tGt.text" = "Distance";
+
+/* Class = "UINavigationItem"; title = "Sélectionner les lignes"; ObjectID = "rXc-OS-oO3"; */
+"rXc-OS-oO3.title" = "Sélectionner les lignes";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "vQB-Zj-F3g"; */
+"vQB-Zj-F3g.text" = "Title";
+
+/* Class = "UIBarButtonItem"; title = "Annuler"; ObjectID = "xDC-Ux-qv5"; */
+"xDC-Ux-qv5.title" = "Annuler";

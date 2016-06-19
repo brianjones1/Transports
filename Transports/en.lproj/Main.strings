@@ -1,0 +1,198 @@
+
+/* Class = "UILabel"; text = "Ligne 3"; ObjectID = "1O7-y7-QsC"; */
+"1O7-y7-QsC.text" = "Line 3";
+
+/* Class = "UIButton"; normalTitle = "Voir sur la carte (ß)"; ObjectID = "5Yi-08-ZNh"; */
+"5Yi-08-ZNh.normalTitle" = "See on the map (ß)";
+
+/* Class = "UINavigationItem"; title = "Ligne 8"; ObjectID = "5aO-dE-hUW"; */
+"5aO-dE-hUW.title" = "Line 8";
+
+/* Class = "UINavigationItem"; title = "Ligne 1"; ObjectID = "6EJ-Zz-jsi"; */
+"6EJ-Zz-jsi.title" = "Line 1";
+
+/* Class = "UILabel"; text = "Prochains passages : Place la Fayette"; ObjectID = "71b-Rs-1X3"; */
+"71b-Rs-1X3.text" = "Next in the station : Place la Fayette";
+
+/* Class = "UILabel"; text = "Créer un compte"; ObjectID = "7Pw-Ak-epp"; */
+"7Pw-Ak-epp.text" = "Create an account";
+
+/* Class = "UIBarButtonItem"; title = "Voir les horaires"; ObjectID = "7fc-u8-Ieg"; */
+"7fc-u8-Ieg.title" = "See the schedules";
+
+/* Class = "UILabel"; text = "Note"; ObjectID = "81s-ig-4vV"; */
+"81s-ig-4vV.text" = "Note";
+
+/* Class = "UINavigationItem"; title = "Ligne 7"; ObjectID = "99I-Ow-ISw"; */
+"99I-Ow-ISw.title" = "Line 7";
+
+/* Class = "UIBarButtonItem"; title = "Géofence"; ObjectID = "9tD-zF-VYh"; */
+"9tD-zF-VYh.title" = "Geofence";
+
+/* Class = "UINavigationItem"; title = "Ligne 9"; ObjectID = "AmO-Si-VLF"; */
+"AmO-Si-VLF.title" = "Line 9";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GBr-3B-6x7"; */
+"GBr-3B-6x7.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "GPk-Vz-MtB"; */
+"GPk-Vz-MtB.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Ligne 9"; ObjectID = "Gd4-14-YRF"; */
+"Gd4-14-YRF.text" = "Line 9";
+
+/* Class = "UILabel"; text = "Ligne 4"; ObjectID = "Gd4-lm-qXt"; */
+"Gd4-lm-qXt.text" = "Line 4";
+
+/* Class = "UILabel"; text = "*(ß) : Indisponible sur cette version bêta."; ObjectID = "HpB-pn-DBR"; */
+"HpB-pn-DBR.text" = "*(ß) : Unavailable on this beta version";
+
+/* Class = "UITextField"; placeholder = "Radius in meters"; ObjectID = "JCu-BO-y8b"; */
+"JCu-BO-y8b.placeholder" = "Radius in meters";
+
+/* Class = "UINavigationItem"; title = "Ligne 2"; ObjectID = "KPK-f8-DU8"; */
+"KPK-f8-DU8.title" = "Line 2";
+
+/* Class = "UINavigationItem"; title = "Ligne 11"; ObjectID = "KdN-jm-p5Y"; */
+"KdN-jm-p5Y.title" = "Line 11";
+
+/* Class = "UINavigationItem"; title = "Ligne 10"; ObjectID = "LSt-5c-ZIA"; */
+"LSt-5c-ZIA.title" = "Line 10";
+
+/* Class = "UINavigationItem"; title = "Ligne 5"; ObjectID = "OIf-hT-97J"; */
+"OIf-hT-97J.title" = "Line 5";
+
+/* Class = "UITextField"; placeholder = "Mot de passe"; ObjectID = "OwI-8U-s4H"; */
+"OwI-8U-s4H.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Ligne 12"; ObjectID = "Rmy-eF-hb9"; */
+"Rmy-eF-hb9.text" = "Line 12";
+
+/* Class = "UINavigationItem"; title = "Ligne 14"; ObjectID = "T0x-Du-PHP"; */
+"T0x-Du-PHP.title" = "Line 14";
+
+/* Class = "UINavigationItem"; title = "Ligne 3"; ObjectID = "TQP-Yv-7kX"; */
+"TQP-Yv-7kX.title" = "Line 3";
+
+/* Class = "UIButton"; normalTitle = "Créer un compte"; ObjectID = "UMg-vq-1cd"; */
+"UMg-vq-1cd.normalTitle" = "Create an account";
+
+/* Class = "UILabel"; text = "Ligne 7"; ObjectID = "UOK-Tx-4o9"; */
+"UOK-Tx-4o9.text" = "Line 7";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "US0-jI-ijd"; */
+"US0-jI-ijd.text" = "Title";
+
+/* Class = "UITextField"; placeholder = "Entrez un rappel à afficher..."; ObjectID = "USr-pF-VnD"; */
+"USr-pF-VnD.placeholder" = "Input a reminder to display";
+
+/* Class = "UILabel"; text = "Ici seront les horaires."; ObjectID = "UvN-cZ-LBQ"; */
+"UvN-cZ-LBQ.text" = "Here will be displayed the schedules";
+
+/* Class = "UILabel"; text = "Ligne 5"; ObjectID = "VqD-oF-pUN"; */
+"VqD-oF-pUN.text" = "Line 5";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "WdU-AF-g6b"; */
+"WdU-AF-g6b.text" = "Title";
+
+/* Class = "UILabel"; text = "Ligne 1"; ObjectID = "Wn1-FH-bqK"; */
+"Wn1-FH-bqK.text" = "Ligne 1";
+
+/* Class = "UITextField"; placeholder = "Mot de passe"; ObjectID = "Yyd-1T-Mqh"; */
+"Yyd-1T-Mqh.placeholder" = "Password";
+
+/* Class = "UIBarButtonItem"; title = "Add"; ObjectID = "Zqz-jV-nhQ"; */
+"Zqz-jV-nhQ.title" = "Add";
+
+/* Class = "UILabel"; text = "Ligne 11"; ObjectID = "bHG-G3-ZkO"; */
+"bHG-G3-ZkO.text" = "Line 11";
+
+/* Class = "UINavigationItem"; title = "Ligne A"; ObjectID = "bzK-fV-0cu"; */
+"bzK-fV-0cu.title" = "Line A";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "cTx-Hb-eHe"; */
+"cTx-Hb-eHe.text" = "Subtitle";
+
+/* Class = "UINavigationItem"; title = "Ajouter une alerte de lieu"; ObjectID = "cjD-eh-hQf"; */
+"cjD-eh-hQf.title" = "Add a reminder";
+
+/* Class = "UINavigationItem"; title = "Endroits (0)"; ObjectID = "dS8-nZ-3oV"; */
+"dS8-nZ-3oV.title" = "Locations (0)";
+
+/* Class = "UILabel"; text = "Ligne 2"; ObjectID = "dig-bh-d09"; */
+"dig-bh-d09.text" = "Line 2";
+
+/* Class = "UINavigationItem"; title = "Ligne 12"; ObjectID = "eyu-Fd-waN"; */
+"eyu-Fd-waN.title" = "Line 12";
+
+/* Class = "UILabel"; text = "Ligne 14"; ObjectID = "g9b-gr-Teb"; */
+"g9b-gr-Teb.text" = "Line 14";
+
+/* Class = "UINavigationItem"; title = "Chercher un arrêt"; ObjectID = "geP-yM-WZF"; */
+"geP-yM-WZF.title" = "Search for a station";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "im2-4H-R3h"; */
+"im2-4H-R3h.text" = "Subtitle";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "lHQ-Hy-vfF"; */
+"lHQ-Hy-vfF.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Ligne 8"; ObjectID = "lVs-BN-3qm"; */
+"lVs-BN-3qm.text" = "Line 8";
+
+/* Class = "UILabel"; text = "Ligne 6"; ObjectID = "lcU-tm-Nrc"; */
+"lcU-tm-Nrc.text" = "Line 6";
+
+/* Class = "UIButton"; normalTitle = "Annuler"; ObjectID = "m4Q-S3-kbq"; */
+"m4Q-S3-kbq.normalTitle" = "Cancel";
+
+/* Class = "UINavigationItem"; title = "Ligne 4"; ObjectID = "mgD-jX-O9i"; */
+"mgD-jX-O9i.title" = "Line 4";
+
+/* Class = "UIButton"; normalTitle = "Se déconnecter"; ObjectID = "nLD-sd-tsg"; */
+"nLD-sd-tsg.normalTitle" = "Log out";
+
+/* Class = "UINavigationItem"; title = "Se connecter"; ObjectID = "out-NY-ZyZ"; */
+"out-NY-ZyZ.title" = "Log In";
+
+/* Class = "UISegmentedControl"; qO7-cw-PJc.segmentTitles[0] = "En arrivant"; ObjectID = "qO7-cw-PJc"; */
+"qO7-cw-PJc.segmentTitles[0]" = "Upon Entry";
+
+/* Class = "UISegmentedControl"; qO7-cw-PJc.segmentTitles[1] = "En partant"; ObjectID = "qO7-cw-PJc"; */
+"qO7-cw-PJc.segmentTitles[1]" = "Upon Exit";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "qXL-jP-tGt"; */
+"qXL-jP-tGt.text" = "Distance";
+
+/* Class = "UINavigationItem"; title = "Sélectionner les lignes"; ObjectID = "rXc-OS-oO3"; */
+"rXc-OS-oO3.title" = "Select the lines";
+
+/* Class = "UIButton"; normalTitle = "Créer un compte"; ObjectID = "s0Z-Br-vQk"; */
+"s0Z-Br-vQk.normalTitle" = "Create an account";
+
+/* Class = "UIButton"; normalTitle = "Changer les lignes"; ObjectID = "tPQ-9u-yjH"; */
+"tPQ-9u-yjH.normalTitle" = "Change the lines";
+
+/* Class = "UIButton"; normalTitle = "Se connecter"; ObjectID = "vOj-jc-Lyo"; */
+"vOj-jc-Lyo.normalTitle" = "Log In";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "vQB-Zj-F3g"; */
+"vQB-Zj-F3g.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Se connecter"; ObjectID = "wJP-xw-Z2S"; */
+"wJP-xw-Z2S.normalTitle" = "Log In";
+
+/* Class = "UINavigationItem"; title = "Changer de ligne"; ObjectID = "wf3-TV-U22"; */
+"wf3-TV-U22.title" = "Change Line";
+
+/* Class = "UIBarButtonItem"; title = "Annuler"; ObjectID = "xDC-Ux-qv5"; */
+"xDC-Ux-qv5.title" = "Cancel";
+
+/* Class = "UINavigationItem"; title = "Ligne 6"; ObjectID = "xc4-Cf-v36"; */
+"xc4-Cf-v36.title" = "Line 6";
+
+/* Class = "UILabel"; text = "Ligne 10"; ObjectID = "yRg-g1-Uwh"; */
+"yRg-g1-Uwh.text" = "Line 10";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "ySL-W1-KdX"; */
+"ySL-W1-KdX.text" = "Subtitle";
